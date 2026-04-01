@@ -28,8 +28,10 @@ Jarvis utilizes **Gemini 2.5 Flash** to perform dense object detection within "m
 [AI Proof](./proof/gemini_integration.png)
 
 ## Screenshots
-![Jarvis Dashboard](./screenshots/dashboard_dark_mode.png)
-![Analysis Result](./screenshots/waste_analysis_ui.png)
+![Jarvis Dashboard](./screenshots/dashboard_dark_mode.<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/405c1418-c012-4d8a-a97e-9b9fb4e2cfca" />
+png)
+![Analysis Result](./screenshots/waste_analysis_<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/126f61a2-2edf-4447-a83a-d53e03a79d2a" />
+ui.png)
 
 ## Demo Video
 [Watch the Jarvis Demo on Google Drive](PASTE_YOUR_LINK_HERE)
