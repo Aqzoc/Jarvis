@@ -25,7 +25,7 @@ Jarvis utilizes **Gemini 2.5 Flash** to perform dense object detection within "m
 
 ## Proof of Google AI Usage
 *Detailed screenshots of the Gemini API integration and GCP Console can be found in the `/proof` folder.*
-[AI Proof](./proof/gemini_integration.png)
+[AI Proof](Proof/gemini_integration.png)
 
 ## Screenshots
 ![Jarvis Dashboard](./screenshots/dashboard_dark_mode.<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/405c1418-c012-4d8a-a97e-9b9fb4e2cfca" />
