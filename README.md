@@ -34,8 +34,7 @@ png)
 ui.png)
 
 ## Demo Video
-[Watch the Jarvis Demo on Google Drive]([https://drive.google.com/file/d/1ct82_e5F3naCzUQwMQ-bu_CNryD7XeE_/view?usp=sharing])
-
+[![Watch the Demo](https://img.shields.io/badge/Jarvis_Demo-Watch_on_Google_Drive-00d1ff?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ct82_e5F3naCzUQwMQ-bu_CNryD7XeE_/view?usp=sharing)
 ## Installation Steps
 
 ```bash
